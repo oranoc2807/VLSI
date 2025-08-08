@@ -1,0 +1,18 @@
+# Verilog build outputs
+*.vcd
+*.vvp
+*.out
+*.bin
+
+# GTKWave config
+*.gtkw
+
+# Editor/OS junk
+*~
+*.swp
+.DS_Store
+
+# VSCode or JetBrains
+.vscode/
+.idea/
+
