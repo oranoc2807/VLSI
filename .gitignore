@@ -1,0 +1,21 @@
+# Icarus/Verilator/GTKWave
+*.vvp
+*.vcd
+*.lxt*
+*.fst
+*.gtkw
+*.sav
+obj_dir/
+build/
+sim/
+out/
+*.log
+
+# VSCode & OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python/venv if you use scripts
+__pycache__/
+venv/
